@@ -8,4 +8,5 @@ class Shoe
   def cobble
     puts 'someting'
     self.condition = 'new'
+  end
 end
