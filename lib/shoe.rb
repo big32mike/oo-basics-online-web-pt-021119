@@ -4,4 +4,8 @@ class Shoe
   def initialize(brand)
     @brand = brand
   end
+
+  def cobble
+    puts 'someting'
+    self.condition = 'new'
 end
